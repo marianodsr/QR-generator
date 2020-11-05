@@ -1,0 +1,19 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "A qr generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianodsr/QR-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianodsr/QR-generator/issues"
+  },
+  "homepage": "https://github.com/marianodsr/QR-generator#readme"
+}
